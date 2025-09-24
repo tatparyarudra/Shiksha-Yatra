@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "Shiksha Yatra",
+  "languageSelection": "Bhasha Chayan / Language Selection",
+  "odiaButton": "ଓଡ଼ିଆ (Odia)",
+  "englishButton": "English",
+  "loginTitle": "Login",
+  "usernameHint": "Email / Mobile Number",
+  "passwordHint": "Password",
+  "submitButton": "Submit",
+  "newUserPrompt": "New to Shiksha Yatra?",
+  "signUpButton": "Sign Up",
+  "welcomeMessage": "Welcome, {username}!",
+  "@welcomeMessage": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  }
+}
