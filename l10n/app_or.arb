@@ -1,0 +1,21 @@
+{
+  "@@locale": "or",
+  "appTitle": "ଶିକ୍ଷା ଯାତ୍ରା",
+  "languageSelection": "ଭାଷା ଚୟନ / Language Selection",
+  "odiaButton": "ଓଡ଼ିଆ (Odia)",
+  "englishButton": "English",
+  "loginTitle": "ଲଗଇନ୍",
+  "usernameHint": "ଇମେଲ୍ / ମୋବାଇଲ୍ ନମ୍ବର",
+  "passwordHint": "ପାସ୍ୱାର୍ଡ",
+  "submitButton": "ଦାଖଲ କରନ୍ତୁ",
+  "newUserPrompt": "ଶିକ୍ଷା ଯାତ୍ରା ରେ ନୂଆ ?",
+  "signUpButton": "ସାଇନ୍ ଅପ୍",
+  "welcomeMessage": "ସ୍ୱାଗତ, {username}!",
+  "@welcomeMessage": {
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  }
+}
